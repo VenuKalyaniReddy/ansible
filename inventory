@@ -1,16 +1,16 @@
-[WEB]
+[web]
 34.203.13.234
 
-[CATALOUGE]
+[catalouge]
 34.203.13.235
 
-[CART]
+[cart]
 34.203.13.236
 
-[ROBOSHOP:CHILDREN]
-WEB
-CATALOUGE
-CART
+[roboshop:children]
+web
+catalouge
+cart
 
 192.168.140.150
 192.168.100.4
