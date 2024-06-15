@@ -1,4 +1,4 @@
-- name: variable from PLAY level
+- name: variables from PLAY level
   hosts: localhost
   task:
     - name: check variables
