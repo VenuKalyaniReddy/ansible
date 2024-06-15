@@ -1,4 +1,4 @@
-- name: Variable from PLAY LEVEL
+- name: variable from PLAY LEVEL
   hosts: localhost
   var_files: 
     -variable.yaml
