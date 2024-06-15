@@ -3,7 +3,7 @@
   hosts: localhost
   vars:
     Course: "DevOps"
-    Tainer: "Shiva"
+    Trainer: "Shiva"
     Duration: "110 HRS"
 
   #Task level variables
