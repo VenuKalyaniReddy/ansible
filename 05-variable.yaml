@@ -1,11 +1,11 @@
 # PLAY level variables
 - name: variable from PLAY -1 level
-  hosts: localhosts
+  hosts: localhost
   vars:
     Course: "DevOps"
     Tainer: "Shiva"
     Duration: "110 HRS"
-    
+
   #Task level variables
   tasks:
     - name: check variables
